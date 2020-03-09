@@ -1,2 +1,2 @@
 # llPlayer
-llPlayer for learning languare in movie
+llPlayer is a player for learning language when you watching movie.
